@@ -1,0 +1,82 @@
+Age;Drinking;DrinkingWeekdays;DrinkingWeekends;Gender;NationalityID;NationalityName;NetIncome;PopulationGroupID;PopulationGroupName;SchoolDropout;State;Treatment
+30;Yes;15;20;Male;3;Birthright citizen;8800 to 11200;5;Pacific Islander;High;Arizona;1
+35;No;NO;NO;Female;4;Naturalized citizen;11200 to 15600;6;Middle Eastern;Middle;Nevada;0
+40;Yes;20;25;Female;1;American;15600 to 22400;7;Middle Eastern;Elementary;Oregon;1
+45;No;NO;NO;Male;2;Citizen of the USA;22400 to 32400;8;Refused;Preschool;Colorado;0
+50;Yes;25;30;Female;3;Birthright citizen;Above 32400;9;Unknown;High;Utah;1
+84;Yes;60;65;Male;2;Citizen of the USA;15600 to 22400;9;Unknown;Elementary;Georgia;1
+88;No;NO;NO;Female;3;Birthright citizen;Above 32400;1;White;Middle;Ohio;0
+92;Yes;65;70;Female;4;Naturalized citizen;Under 1800;2;African;High;Michigan;1
+96;No;NO;NO;Male;1;American;1800 to 4800;3;Native;Preschool;Virginia;0
+100;Yes;70;75;Female;2;Citizen of the USA;4800 to 8800;4;Asian;Elementary;Washington;1
+64;Yes;45;50;Male;1;American;8800 to 11200;4;Asian;High;Florida;1
+68;No;NO;NO;Female;2;Citizen of the USA;11200 to 15600;5;Pacific Islander;Middle;Texas;0
+72;Yes;50;55;Female;3;Birthright citizen;15600 to 22400;6;Middle Eastern;Elementary;New York;1
+76;No;NO;NO;Male;4;Naturalized citizen;22400 to 32400;7;Middle Eastern;Preschool;California;0
+80;Yes;55;60;Female;1;American;Above 32400;8;Refused;High;Illinois;1
+44;Yes;30;35;Male;4;Naturalized citizen;15600 to 22400;8;Refused;Elementary;Florida;1
+48;No;NO;NO;Female;1;American;Above 32400;9;Unknown;Middle;Texas;0
+52;Yes;35;40;Female;2;Citizen of the USA;Under 1800;1;White;High;New York;1
+56;No;NO;NO;Male;3;Birthright citizen;1800 to 4800;2;African;Preschool;California;0
+60;Yes;40;45;Female;4;Naturalized citizen;4800 to 8800;3;Native;Elementary;Illinois;1
+24;Yes;15;20;Male;3;Birthright citizen;8800 to 11200;3;Native;High;Florida;1
+28;No;NO;NO;Female;4;Naturalized citizen;11200 to 15600;4;Asian;Middle;Texas;0
+32;Yes;20;25;Female;1;American;15600 to 22400;5;Pacific Islander;Elementary;New York;1
+36;No;NO;NO;Male;2;Citizen of the USA;22400 to 32400;6;Middle Eastern;Preschool;California;0
+40;Yes;25;30;Female;3;Birthright citizen;Above 32400;7;Middle Eastern;High;Illinois;1
+85;Yes;40;45;Female;2;Citizen of the USA;15600 to 22400;6;Middle Eastern;Elementary;Florida;1
+95;No;NO;NO;Male;3;Birthright citizen;Above 32400;7;Middle Eastern;Preschool;Texas;0
+18;Yes;5;10;Female;4;Naturalized citizen;Under 1800;8;Refused;High;New York;1
+20;No;NO;NO;Male;1;American;1800 to 4800;1;White;Middle;California;0
+22;Yes;10;15;Female;2;Citizen of the USA;4800 to 8800;2;African;Elementary;Illinois;1
+35;Yes;10;15;Male;1;American;1800 to 4800;1;White;High;California;0
+45;No;NO;NO;Female;2;Citizen of the USA;11200 to 15600;2;African;Middle;Texas;1
+55;Yes;20;25;Male;3;Birthright citizen;8800 to 11200;3;Native;Elementary;New York;0
+65;No;NO;NO;Female;4;Naturalized citizen;15600 to 22400;4;Asian;Preschool;Florida;1
+75;Yes;30;35;Male;1;American;22400 to 32400;5;Pacific Islander;High;Illinois;0
+35;Yes;10;15;Male;1;American;1800 to 4800;5;Pacific Islander;High;California;0
+45;No;NO;NO;Female;2;Citizen of the USA;11200 to 15600;3;Native;Middle;Texas;1
+55;Yes;20;25;Male;3;Birthright citizen;8800 to 11200;4;Asian;Elementary;New York;0
+65;No;NO;NO;Female;4;Naturalized citizen;15600 to 22400;6;Middle Eastern;Preschool;Florida;1
+75;Yes;30;35;Male;1;American;22400 to 32400;7;Middle Eastern;High;Illinois;0
+35;Yes;10;15;Male;1;American;1800 to 4800;5;Pacific Islander;High;California;0
+55;Yes;30;35;Male;4;Naturalized citizen;8800 to 11200;1;White;High;Minnesota;1
+60;No;NO;NO;Female;1;American;11200 to 15600;2;African;Middle;Wisconsin;0
+65;Yes;35;40;Female;2;Citizen of the USA;15600 to 22400;3;Native;Elementary;Iowa;1
+70;No;NO;NO;Male;3;Birthright citizen;22400 to 32400;4;Asian;Preschool;Missouri;0
+75;Yes;40;45;Female;4;Naturalized citizen;Above 32400;5;Pacific Islander;High;Kansas;1
+80;Yes;55;60;Male;2;Citizen of the USA;8800 to 11200;1;White;High;Indiana;1
+85;No;NO;NO;Female;3;Birthright citizen;11200 to 15600;2;African;Middle;Kentucky;0
+90;Yes;60;65;Female;4;Naturalized citizen;15600 to 22400;3;Native;Elementary;Louisiana;1
+95;No;NO;NO;Male;1;American;22400 to 32400;4;Asian;Preschool;Maine;0
+100;Yes;65;70;Female;2;Citizen of the USA;Above 32400;5;Pacific Islander;High;Maryland;1
+18;Yes;70;75;Male;3;Birthright citizen;8800 to 11200;6;Middle Eastern;High;Massachusetts;1
+18;No;NO;NO;Female;4;Naturalized citizen;11200 to 15600;7;Refused;Middle;Michigan;0
+18;Yes;75;80;Female;1;American;15600 to 22400;8;Unknown;Elementary;Minnesota;1
+18;No;NO;NO;Male;2;Citizen of the USA;22400 to 32400;9;Unknown;Preschool;Mississippi;0
+18;Yes;80;85;Female;3;Birthright citizen;Above 32400;1;White;High;Missouri;1
+18;Yes;85;90;Male;4;Naturalized citizen;8800 to 11200;2;African;High;Montana;1
+18;No;NO;NO;Female;1;American;11200 to 15600;3;Native;Middle;Nebraska;0
+18;Yes;90;95;Female;2;Citizen of the USA;15600 to 22400;4;Asian;Elementary;Nevada;1
+19;No;NO;NO;Male;3;Birthright citizen;22400 to 32400;5;Pacific Islander;Preschool;New Hampshire;0
+19;Yes;95;100;Female;4;Naturalized citizen;Above 32400;6;Middle Eastern;High;New Jersey;1
+19;Yes;100;105;Male;1;American;8800 to 11200;7;Refused;High;New Mexico;1
+19;No;NO;NO;Female;2;Citizen of the USA;11200 to 15600;8;Unknown;Middle;New York;0
+19;Yes;105;110;Female;3;Birthright citizen;15600 to 22400;9;Unknown;Elementary;North Carolina;1
+19;No;NO;NO;Male;4;Naturalized citizen;22400 to 32400;1;White;Preschool;North Dakota;0
+19;Yes;110;115;Female;1;American;Above 32400;2;African;High;Ohio;1
+19;Yes;115;120;Male;2;Citizen of the USA;8800 to 11200;3;Native;High;Oklahoma;1
+19;No;NO;NO;Female;3;Birthright citizen;11200 to 15600;4;Asian;Middle;Oregon;0
+19;Yes;120;125;Female;4;Naturalized citizen;15600 to 22400;5;Pacific Islander;Elementary;Pennsylvania;1
+19;No;NO;NO;Male;1;American;22400 to 32400;6;Middle Eastern;Preschool;Rhode Island;0
+19;Yes;125;130;Female;2;Citizen of the USA;Above 32400;7;Refused;High;South Carolina;1
+95;Yes;100;105;Male;3;Birthright citizen;8800 to 11200;6;Middle Eastern;High;South Dakota;1
+90;No;NO;NO;Female;4;Naturalized citizen;11200 to 15600;7;Refused;Middle;Tennessee;0
+85;Yes;95;100;Female;1;American;15600 to 22400;8;Unknown;Elementary;Texas;1
+80;No;NO;NO;Male;2;Citizen of the USA;22400 to 32400;9;Unknown;Preschool;Utah;0
+75;Yes;90;95;Female;3;Birthright citizen;Above 32400;1;White;High;Vermont;1
+70;Yes;85;90;Male;4;Naturalized citizen;8800 to 11200;2;African;High;Virginia;1
+65;No;NO;NO;Female;1;American;11200 to 15600;3;Native;Middle;Washington;0
+60;Yes;80;85;Female;2;Citizen of the USA;15600 to 22400;4;Asian;Elementary;West Virginia;1
+55;No;NO;NO;Male;3;Birthright citizen;22400 to 32400;5;Pacific Islander;Preschool;Wisconsin;0
+50;Yes;75;80;Female;4;Naturalized citizen;Above 32400;6;Middle Eastern;High;Wyoming;1
